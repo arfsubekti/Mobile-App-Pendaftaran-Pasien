@@ -1,20 +1,37 @@
+# 📱 Aplikasi Mobile Pendaftaran Pasien Klinik
 
-# Mobile-App-Pendaftaran-Pasien
-=======
-# daftar_pasien_klinik
+Selamat datang di aplikasi pendaftaran pasien yang super praktis dan cepat! 🚀 Dibangun dengan Flutter, aplikasi ini memudahkan pasien untuk mendaftar tanpa ribet, langsung dari smartphone mereka.
 
-A new Flutter project.
+## ✨ Fitur Unggulan
 
-## Getting Started
+- 📝 **Pendaftaran Pasien Baru**  
+  Daftar pasien jadi lebih mudah dan cepat tanpa antrean panjang.  
+- 📋 **Daftar Pasien Lengkap**  
+  Pantau semua pasien yang sudah terdaftar dengan tampilan yang simpel dan jelas.  
+- 🎨 **Antarmuka Responsif**  
+  Desain modern yang nyaman dipakai di berbagai ukuran layar.  
+- ✅ **Validasi Data Otomatis**  
+  Pastikan data pasien lengkap dan benar sebelum disimpan.
 
-This project is a starting point for a Flutter application.
+## 🚀 Cara Memulai
 
-A few resources to get you started if this is your first Flutter project:
+Ikuti langkah mudah ini untuk menjalankan aplikasi di perangkat kamu:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Pastikan Flutter sudah terinstall di komputer kamu. [Panduan Instalasi Flutter](https://flutter.dev/docs/get-started/install)  
+2. Clone repo ini:  
+   `git clone https://github.com/arfsubekti/Mobile-App-Pendaftaran-Pasien.git`  
+3. Masuk ke folder proyek:  
+   `cd Mobile-App-Pendaftaran-Pasien`  
+4. Install semua dependensi:  
+   `flutter pub get`  
+5. Jalankan aplikasinya:  
+   `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🤝 Kontribusi
 
+Kamu punya ide atau ingin membantu mengembangkan aplikasi ini? Silakan buat issue atau pull request — semua kontribusi sangat kami hargai!
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah MIT License.  
+© 2025 Arf Subekti
